@@ -74,18 +74,19 @@ A **polished, console & GUI-based Java application** designed for small to mediu
 git clone <your-repo-url>
 cd SuperMarket
 
-###2. Compile Java Files
+
+### 2. Compile Java Files
 
 From src folder:
 javac model/Item.java service/Store.java gui/SupermarketGUI.java
 
-###3. Run the GUI
+### 3. Run the GUI
 java gui.SupermarketGUI
 
-###4. Optional: Run Console App
+### 4. Optional: Run Console App
 java App
 
-##Usage
+## Usage
 
 1. Add Item – Enter name, price, and quantity.
 
@@ -97,23 +98,20 @@ java App
 
 5. Total Store Worth & Item Count – Always displayed in GUI panel.
 
-##Screenshots
+## Screenshots
 
 (Optional: Add actual screenshots of your GUI here for visual reference)
 
-##License
+## License
 
 This project is open-source and free to use for learning and personal purposes.
 
-##Author
+## Author
 
 Shahbaj Ahmed
 
 
 ---
 
-If you want, I can **also create a super concise 1-paragraph version for GitHub description + tags** so your repo looks professional immediately.  
-
-Do you want me to do that too?
 
 
